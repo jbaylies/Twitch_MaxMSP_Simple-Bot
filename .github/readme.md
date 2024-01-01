@@ -10,7 +10,11 @@
 
 This simple Twitch bot can receive messages from, and send messages to, Twitch chat via Max.
 
-![image](./media/Screenshot.png)
+<div align="center">
+
+![image](./media/Screenshot.jpg)
+
+</div>
 
 <a href="#floppy_disk-installation">![rainbow](./media/rainbow.png)</a>
 
@@ -29,7 +33,7 @@ OAUTH_TOKEN=oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 > [!NOTE]
 > I used this site to generate an oauth token: https://twitchapps.com/tmi/
 
-<a href="#steam_locomotive-startup">![rainbow](./media/rainbow.png)</a>
+<a href="#pray-credits">![rainbow](./media/rainbow.png)</a>
 
 # :pray: Credits
 
