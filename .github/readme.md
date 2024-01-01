@@ -10,7 +10,7 @@
 
 This simple Twitch bot can receive messages from, and send messages to, Twitch chat via Max.
 
-![image](./media/Screenshot 2024-01-01 155554.png)
+![image](./media/Screenshot.png)
 
 <a href="#floppy_disk-installation">![rainbow](./media/rainbow.png)</a>
 
